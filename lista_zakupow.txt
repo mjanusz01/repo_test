@@ -1,1 +1,2 @@
 mleko           2.00
+jajka           3.00
