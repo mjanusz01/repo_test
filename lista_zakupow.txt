@@ -1,2 +1,3 @@
 mleko           2.00
 jajka           3.00
+maslo           4.40
